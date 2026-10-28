@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+
+# Sitemap
+Sitemap: https://refikoglugroup.com/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
